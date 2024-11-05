@@ -18,11 +18,11 @@
       },
       {
         titulo: 'Ir para academia',
-        finalizada: true
+        finalizada: false
       },
       {
         titulo: 'Ir ao mercado',
-        finalizada: true
+        finalizada: false
       }
     ]
   })
