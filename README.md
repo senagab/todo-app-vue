@@ -1,8 +1,8 @@
 # Single Page Application To-do App
 
-<p align=right>
+<p align=left>
     <img src="https://img.shields.io/badge/vue-v3.5.12-359369?logo=vue.js&labelColor=white" alt="Vue version">
-    <img src="https://img.shields.io/badge/vite-v5.4.10-bd34fe?logo=vite&labelColor=white" alt="Vite version">
+    <img src="https://img.shields.io/badge/vite-v5.4.10-6568FF?logo=vite&labelColor=white" alt="Vite version">
     <img src="https://img.shields.io/badge/bootstrap-v5.3.3-6f2cf4?logo=bootstrap&labelColor=white" alt="Bootstrap version">
 </p>
 
